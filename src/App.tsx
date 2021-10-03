@@ -1,14 +1,11 @@
 import React from 'react';
+import TodoContainer from './components/TodoContainer';
 import './App.css';
 
 function App(): React.ReactElement {
     return (
         <div className="App">
-            <header className="App-header">
-                <p>
-                    Example for <code>react-vac</code>.
-                </p>
-            </header>
+            <TodoContainer />
         </div>
     );
 }
