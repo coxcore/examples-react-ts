@@ -9241,6 +9241,11 @@ react-scripts@4.0.3:
   optionalDependencies:
     fsevents "^2.1.3"
 
+react-vac@^0.2.1:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/react-vac/-/react-vac-0.2.1.tgz#cae97b6b21ab8510161ee54928ff2e97c92e2ad8"
+  integrity sha512-HTmCvn5RtasJkKC84DIAwKnVn/d7B10257VgzP4ugtqr9AxS7n697D+YLkpNsbAvV4A1FQ5uy75XJXv1rOSwSA==
+
 react@^17.0.2:
   version "17.0.2"
   resolved "https://registry.yarnpkg.com/react/-/react-17.0.2.tgz#d0b5cc516d29eb3eee383f75b62864cfb6800037"
