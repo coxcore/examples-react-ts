@@ -9273,10 +9273,10 @@ react-is@^18.0.0:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-18.2.0.tgz#199431eeaaa2e09f86427efbb4f1473edb47609b"
   integrity sha512-xWGDIW6x921xtzPkhiULtthJHoJvBbF3q26fzloPCK0hsvxtPVelvftw3zjbHWSkR2km9Z+4uxbDDK/6Zw9B8w==
 
-react-loop-item@^1.1.3:
-  version "1.1.3"
-  resolved "https://registry.yarnpkg.com/react-loop-item/-/react-loop-item-1.1.3.tgz#b9847adda620185b65d30f70323ee3dc05a7b9f0"
-  integrity sha512-BEsMYjjGj+Rbulit4lPZMIHqcgSJtQYmNSYfKUsEClvHTFhsmW5myMd1jMhWhYYFPEJ0QxvbLPXq0AE/qiacFw==
+react-loop-item@^1.1.4:
+  version "1.1.4"
+  resolved "https://registry.yarnpkg.com/react-loop-item/-/react-loop-item-1.1.4.tgz#49cc8d6c563675334ede439e041ecbe7ab4681ad"
+  integrity sha512-fqboZTeFaF7NYtu3Ij77QVdsukK7ieUuGaLeewOTZqcFfFO1TSdsfeB4QArchVfPY7TQQEhdoTKxPETC5ov2LQ==
 
 react-refresh@^0.8.3:
   version "0.8.3"
@@ -9349,10 +9349,10 @@ react-scripts@4.0.3:
   optionalDependencies:
     fsevents "^2.1.3"
 
-react-vac@^0.2.3:
-  version "0.2.3"
-  resolved "https://registry.yarnpkg.com/react-vac/-/react-vac-0.2.3.tgz#02bbed2f9475a8bba79546ed8c499cac4379d152"
-  integrity sha512-vtOKPJ9V/QTpNBUmRSSpztpc6vsxo6xyvFzyR5ZpoeMxOAUz1eRJB6YD8xq4Z90DQEN+C3iul3OvDZq4Lcb41Q==
+react-vac@^0.3.0:
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/react-vac/-/react-vac-0.3.0.tgz#de1f53a6f654c0fff00b6f7fa58e65b4c6ce737f"
+  integrity sha512-UVmOBCTg3Uo6OQHLXGuT1L0bR47C9e5UHsf8LfQql842JERe3sDSIBhAi1TzWeK1udusYIUxaSW0gAtPgObfmg==
 
 react@^17.0.2:
   version "17.0.2"
